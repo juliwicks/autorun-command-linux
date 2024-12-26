@@ -32,6 +32,5 @@ This repository contains a Bash script to set up **multiple autorun tasks** for 
 
 Download and run the script directly:
    ```bash
-   curl -o create_autorun.sh https://raw.githubusercontent.com/juliwicks/autorun-command-linux/refs/heads/main/create_autorun.sh
-   chmod +x create_autorun.sh
-   sudo ./create_autorun.sh
+   curl -o create_autorun.sh https://raw.githubusercontent.com/juliwicks/autorun-command-linux/refs/heads/main/create_autorun.sh && chmod +x create_autorun.sh && sudo ./create_autorun.sh
+
